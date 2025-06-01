@@ -1,4 +1,4 @@
-# Hello World! I'm Farrel Alfared Carasiola 👋
+# I'm Farrel Alfared Carasiola 👋
 
 ![Banner](https://raw.githubusercontent.com/farrelac/farrelac/main/Banner_github.png)
 
