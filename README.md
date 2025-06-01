@@ -1,6 +1,6 @@
 # Hello World! I'm Farrel Alfared Carasiola 👋
 
-![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
+![Banner](https://raw.githubusercontent.com/farrelac/farrelac/main/Black_Blue_White_Modern_Software_Engineer_Linkedin_Banner.png)
 
 # 💫 About Me:
 Assistant Laboratory of Software Architecture & Quality  
