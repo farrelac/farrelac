@@ -1,5 +1,12 @@
+# Hello World! I'm Farrel Alfared Carasiola 👋
+
+![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
+
 # 💫 About Me:
-Assistant Laboratory of Software Architecture & Quality | Informatics Engineering Student | Support Engineer Enthusiast | Technical Support Enthusiast
+Assistant Laboratory of Software Architecture & Quality  
+🎓 Informatics Engineering Student  
+🛠️ Support Engineer Enthusiast  
+🖥️ Technical Support Enthusiast
 
 
 ## 🌐 Socials:
