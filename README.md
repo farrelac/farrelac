@@ -3,8 +3,8 @@
 ![Banner](https://raw.githubusercontent.com/farrelac/farrelac/main/Banner_github.png)
 
 # 💫 About Me:
-Assistant Laboratory of Software Architecture & Quality  
-🎓 Informatics Engineering Student  
+### Informatics Engineering Student  
+👨‍💻 Assistant Laboratory of Software Architecture & Quality  
 🛠️ Support Engineer Enthusiast  
 🖥️ Technical Support Enthusiast
 
